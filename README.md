@@ -3,8 +3,7 @@ In this project I was tasked to clean and analyse sales data to generate insight
 demographics. This analysis and report dashboard showing key insights were carried out using Microsoft Excel.  
 ## Dataset
 The data set contains 17423 columns and 10 columns, the columns firstname and lastname were merged to give customers full
-name and new columns such as age, customer value and age category were created from existing columns. Majority of the 
-analysis was carried out using pivot tables and advanced excel functions.
+name and new columns such as age, customer value and age category were created from existing columns. This analysis was carried out using pivot tables and advanced excel functions.
 ## Conclusion
 The following conclusions was drawn from the analysis of the data;
 1. The regions that generated most revenue are Australia, Southwest and United Kingdom. Australia been the best performing
